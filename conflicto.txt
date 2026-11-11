@@ -1,1 +1,1 @@
-Version original del laboratorio
+Cambio realizado en la rama prueba-conflicto
